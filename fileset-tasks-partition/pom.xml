@@ -8,7 +8,7 @@
     <parent>
         <groupId>com.ossprj.fileset</groupId>
         <artifactId>ossprj-fileset-tasks</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.1-SNAPSHOT</version>
     </parent>
 
     <dependencies>
@@ -31,7 +31,7 @@
         <dependency>
             <groupId>com.ossprj.commons</groupId>
             <artifactId>ossprj-commons-constraint</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1-SNAPSHOT</version>
         </dependency>
 
         <dependency>
